@@ -1,16 +1,13 @@
-## Hi there 👋
+Instrumentalys
+Instrumentalys is a community-driven platform designed to facilitate the donation, exchange, and sustainable reuse of scientific instruments. We ensure that valuable laboratory equipment finds a new life in active research instead of sitting idle.
 
-<!--
-**instrumentalys/instrumentalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Made by Scientists, for Scientists
+Scientific instruments represent significant institutional investments, yet they often collect dust after a project ends. Instrumentalys provides a centralized hub to postpone disposal, maximize instrument longevity, and create a circular economy for specialized parts and equipment.
 
-Here are some ideas to get you started:
+🌟 Core Pillars
+Efficiency: Save time, space, and grant funding by intelligently managing laboratory assets.
+Sustainability: Reduce institutional waste and maximize the lifecycle of precision instruments.
+Open Science: Built for academics who prioritize resource sharing and collective progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Instrumentalys All rights reserved
